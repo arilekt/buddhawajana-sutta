@@ -6,3 +6,4 @@ export default defineConfig({
   base: '/buddhawajana-sutta/',
   plugins: [react(), mdx()],
 });
+
